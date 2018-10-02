@@ -1,0 +1,6 @@
+.login-bg {
+    background-image: url(../../app/media/img//bg/bg-1.jpg);
+}
+.table-middle thead th {
+    vertical-align: middle !important;
+}
